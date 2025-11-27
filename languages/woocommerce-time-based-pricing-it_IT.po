@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Pricing & Discounts!\n"
+"POT-Creation-Date: 2024-08-30 18:04+0200\n"
+"PO-Revision-Date: 2024-08-30 18:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-time-based-pricing.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: classes/acf\n"
+
+#: classes/admin/WCTBP_ActivationPage.php:40
+#: classes/admin/WCTBP_ActivationPage.php:41
+#: classes/admin/WCTBP_ActivationPage.php:88
+msgid " Activator"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:69
+msgid "Purchase code is invalid!"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:70
+msgid "Buyer name is invalid!"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:71
+msgid "Item id is invalid!"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:72
+msgid ""
+"Max number of domains reached! You have to purchase a new license. The "
+"current license has been activated in the following domains: "
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:73
+#: classes/admin/WCTBP_ActivationPage.php:152
+msgid "Verifing, please wait..."
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:74
+msgid ""
+"There was an error while verifing the code. Please retry in few minutes!"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:75
+msgid "Activation successfully completed!"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:76
+msgid "Buyer and Purchase code fields must be filled!"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:117
+msgid "Activation"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:135
+msgid ""
+"The plugin can be activate in only <strong>two</strong> domains and they "
+"cannot be unregistered. Please enter the following data and hit the "
+"activation button"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:141
+msgid "Buyer"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:142
+msgid "Insert the Envato username used to purchase the plugin."
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:143
+msgid "Example: vanquish"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:146
+msgid "Purchase code"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:147
+msgid ""
+"Insert the purchase code. It can be downloaded from your CodeCanyon "
+"\"Downloads\" profile page."
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:148
+msgid "Example: 7d7c3rt8-f512-227c-8c98-fc53c3b212fe"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:150
+msgid "Activate"
+msgstr ""
+
+#: classes/admin/WCTBP_ActivationPage.php:155
+msgid "The plugin has been successfully activated!"
+msgstr ""
+
+#: classes/admin/WCTBP_Dashboard.php:13
+msgid "WooCommerce Pricing! - Server time"
+msgstr ""
+
+#: classes/admin/WCTBP_Dashboard.php:23
+msgid "Current server time with offset (date format: dd/mm/yyyy):"
+msgstr ""
+
+#: classes/admin/WCTBP_ProductTablePage.php:18
+msgid "General rules: "
+msgstr ""
+
+#: classes/admin/WCTBP_ProductTablePage.php:46
+msgid "(ID: "
+msgstr ""
+
+#: classes/admin/WCTBP_ProductTablePage.php:61
+msgid "Specific product rules: "
+msgstr ""
+
+#: classes/admin/WCTBP_ProductTablePage.php:75
+msgid "Pricing rule(s)"
+msgstr ""
+
+#: classes/com/WCTBP_Cart.php:28
+msgid "You are not authorized to buy this product."
+msgstr ""
+
+#: classes/com/WCTBP_Cart.php:48
+#, php-format
+msgid "You are not authorized to buy %s. It has been removed from cart."
+msgstr ""
+
+#: classes/com/WCTBP_Cart.php:72
+#, php-format
+msgid "You are not authorized to buy %s. It will be removed from the cart."
+msgstr ""
+
+#: classes/com/WCTBP_Cart.php:152 classes/com/WCTBP_Cart.php:165
+#: classes/com/WCTBP_Cart.php:191
+msgid "Discount"
+msgstr ""
+
+#: classes/com/WCTBP_Cart.php:157 classes/com/WCTBP_Cart.php:171
+msgid "Fee"
+msgstr ""
+
+#: classes/com/WCTBP_Text.php:21
+msgid " - Total: "
+msgstr ""
+
+#: classes/com/WCTBP_Text.php:24 classes/com/WCTBP_Text.php:28
+#, php-format
+msgid "%s off!"
+msgstr ""
+
+#: classes/com/WCTBP_Text.php:32
+#, php-format
+msgid "up to %s off!"
+msgstr ""
+
+#: classes/com/WCTBP_Text.php:36
+msgid "You saved"
+msgstr ""
+
+#: classes/com/vendor/acf-field-unique-id/acf-unique_id-v5.php:31
+msgid "Unique ID"
+msgstr ""
+
+#: classes/com/vendor/acf-product-variant-field/acf-product_variant_selector.php:11
+msgid "Product Variant Selector"
+msgstr ""
+
+#: classes/com/vendor/acf-product-variant-field/acf-product_variant_selector.php:12
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:40
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:38
+msgid "Choice"
+msgstr ""
+
+#: classes/com/vendor/acf-product-variant-field/acf-product_variant_selector.php:26
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:90
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:75
+msgid "Return Format"
+msgstr ""
+
+#: classes/com/vendor/acf-product-variant-field/acf-product_variant_selector.php:27
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:76
+msgid "Specify the returned value type"
+msgstr ""
+
+#: classes/com/vendor/acf-product-variant-field/acf-product_variant_selector.php:32
+msgid "Product id"
+msgstr ""
+
+#: classes/com/vendor/acf-product-variant-field/acf-product_variant_selector.php:48
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:132
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:97
+msgid "Field Type"
+msgstr ""
+
+#: classes/com/vendor/acf-product-variant-field/acf-product_variant_selector.php:52
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:141
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:101
+msgid "Multiple Values"
+msgstr ""
+
+#: classes/com/vendor/acf-product-variant-field/acf-product_variant_selector.php:53
+#: classes/com/vendor/acf-product-variant-field/acf-product_variant_selector.php:58
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:147
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:107
+msgid "Select"
+msgstr ""
+
+#: classes/com/vendor/acf-product-variant-field/acf-product_variant_selector.php:54
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:143
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:103
+msgid "Multi Select"
+msgstr ""
+
+#: classes/com/vendor/acf-product-variant-field/acf-product_variant_selector.php:56
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:145
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:105
+msgid "Single Value"
+msgstr ""
+
+#: classes/com/vendor/acf-product-variant-field/acf-product_variant_selector.php:57
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:146
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:106
+msgid "Radio Buttons"
+msgstr ""
+
+#: classes/com/vendor/acf-product-variant-field/acf-product_variant_selector.php:108
+msgid "Ignore this field, product is not a variable product."
+msgstr ""
+
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:39
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:37
+msgid "User Role Selector"
+msgstr ""
+
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:91
+msgid "Specify the value returned to the front end"
+msgstr ""
+
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:101
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:81
+msgid "Role Name"
+msgstr ""
+
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:102
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:82
+msgid "Role Object"
+msgstr ""
+
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:112
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:88
+msgid "Allowed Roles"
+msgstr ""
+
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:113
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:92
+msgid "To allow all roles, select none or all of the options to the right"
+msgstr ""
+
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v4.php:142
+#: classes/com/vendor/acf-role-selector-field/acf-role_selector-v5.php:102
+msgid "Checkbox"
+msgstr ""
+
+#: classes/frontend/WCTBP_PriceChanger.php:346
+msgid "From: "
+msgstr ""
+
+#: classes/frontend/WCTBP_ProductPage.php:72
+msgid "Computing price..."
+msgstr ""
+
+#: woocommerce-time-based-pricing.php:63
+#, php-format
+msgid ""
+"To complete the <span style=\"color:#96588a; font-weight:bold;\">%s</span> "
+"plugin activation, you must verify your purchase license. Click <a "
+"href=\"%s\">here</a> to verify it."
+msgstr ""
+
+#: woocommerce-time-based-pricing.php:187
+msgid "WooCommerce Pricing!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Pricing & Discounts!"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Set products prices or discounts per time periods or recurring events "
+"according to product quantities and user roles."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Lagudi Domenico"
+msgstr ""
